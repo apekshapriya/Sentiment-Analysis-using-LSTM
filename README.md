@@ -1,6 +1,6 @@
 # Sentiment-Analysis-using-LSTM
 
-##Model
+## Model
 
 A single layer LSTM is used for sentiment classification of Laptop product reviews
 
